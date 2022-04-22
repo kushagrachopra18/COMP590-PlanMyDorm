@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/COMP590_PlanMyDorm/static/css/main.c5000619.css",
+    "main.js": "/COMP590_PlanMyDorm/static/js/main.d6f0b796.js",
+    "static/js/787.28cb0dcd.chunk.js": "/COMP590_PlanMyDorm/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/COMP590_PlanMyDorm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/COMP590_PlanMyDorm/index.html",
+    "main.c5000619.css.map": "/COMP590_PlanMyDorm/static/css/main.c5000619.css.map",
+    "main.d6f0b796.js.map": "/COMP590_PlanMyDorm/static/js/main.d6f0b796.js.map",
+    "787.28cb0dcd.chunk.js.map": "/COMP590_PlanMyDorm/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5000619.css",
+    "static/js/main.d6f0b796.js"
+  ]
+}
