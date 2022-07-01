@@ -1,3 +1,5 @@
+# Deployed here: https://kushagrachopra18.github.io/COMP590_PlanMyDorm/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
