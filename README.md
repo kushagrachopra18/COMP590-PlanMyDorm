@@ -3,7 +3,7 @@ This demo was made for UX testing a 2D Dorm Planner feature in a dorm planning w
 
 This is a simple single page react application that uses the React-Draggable library and is deployed on Github pages. This demo was imported as an iframe into the larger website (which is no longer deployed) so that it could be comprehensively UX tested
 
-**Demo deployed here:** https://kushagrachopra18.github.io/COMP590_PlanMyDorm/
+**Demo deployed here:** https://kushagrachopra18.github.io/COMP590-PlanMyDorm/
 
 ## How to use
 
